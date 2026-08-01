@@ -1,6 +1,7 @@
 ---
 name: aoccqa-case-exporter
-version: 1.0.0
+metadata:
+  version: 1.0.0
 description: >
   共用工具（人工指令觸發、Agent 執行）。把前一個 agent（測試案例產生器）產出的
   測試案例，連同一張 Jira 單，套進 AOCC QA 官方 xlsx 模板並匯出。只整理輸出、
